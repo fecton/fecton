@@ -5,5 +5,5 @@
 - 💬 Ask me about everything
 - 📫 How to reach me:
     * Telegram: @positive_0wl
-    * Telegram channel: t.me/varlife
+    * Telegram channel: https://t.me/varlife
 - ⚡ Fun fact: I like drinking kvas
