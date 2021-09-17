@@ -4,6 +4,6 @@
 - 🤔 I’m looking for help with learning
 - 💬 Ask me about everything
 - 📫 How to reach me:
-    * Telegram: @positive_0wl
+    * Telegram: @fectonn
     * Telegram channel: https://t.me/varlife
 - ⚡ Fun fact: I like drinking kvas
