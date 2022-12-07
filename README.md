@@ -10,5 +10,5 @@ Here is what I'm working on 👋
 - 💬 Ask me about everything
 - 📫 How to reach me:
     * Telegram channel: https://t.me/varlife
-    * Website: https://fecton.github.io/aboutme
+    * Website: https://alytvynenko.online
 - ⚡ Fun fact: I like drinking kvas
