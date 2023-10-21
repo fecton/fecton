@@ -9,7 +9,7 @@ Here is more information about me
 - 🤔 I’m looking for help with helpful experience
 - 💬 Ask me about everything
 - 📫 How to reach me:
-    * Website: https://alytvynenko.online
+    * Website: https://alytvynenko.net
 - ⚡ Fun fact: I like drinking Kvas 🥴
 
 
