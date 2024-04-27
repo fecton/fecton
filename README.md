@@ -1,12 +1,12 @@
 # Andrii Lytvynenko
 ## DevOps / Computer Science / Programming
-Salut! I am Andrii Lytvynenko, interested in Java, Python and DevOps 
+Salut! I am Andrii Lytvynenko, DevOps Engineer and Computer Science student
 
 Here is more information about me
 - 🔭 I’m currently working on becoming a professional
-- 🌱 I’m currently learning DevOps and Java
-- 👯 I’m looking to collaborate on project development
-- 🤔 I’m looking for help with helpful experience
+- 🌱 I’m currently learning DevOps and Computer Science
+- 👯 I’m looking to collaborate on DevOps, Java, and Python projects
+- 🤔 I’m looking for help with knowledge and professional experience
 - 💬 Ask me about everything
 - 📫 How to reach me:
     * Website: https://alytvynenko.net
