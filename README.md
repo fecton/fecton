@@ -7,7 +7,6 @@ Here is more information about me
 - 👯 I’m looking to collaborate on DevOps, Java, and Python projects
 - 📫 How to reach me:
     * Website: https://alytvynenko.net
-    * Telegram: [@fecton](https://t.me/fecton)
 
 ### 📈 GitHub Stats 
 [![AB's github stats](https://github-readme-stats.vercel.app/api?username=fecton&count_private=true&show_icons=true)](https://github.com/fecton/github-readme-stats)
