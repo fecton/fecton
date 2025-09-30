@@ -1,8 +1,8 @@
 # Andrii Lytvynenko
-## DevOps / Computer Science / Programming
-Hello! I am Andrii Lytvynenko, a Senior DevOps Engineer
+## Senior DevOps & Cloud Engineer
+Hello! I am Andrii Lytvynenko, a Senior DevOps Engineer. Also, I am learning computer science, math and programming.
 
-- All info is on my website: https://alytvynenko.net
+More info here: https://alytvynenko.net
 
 ### 📈 GitHub Stats 
 [![AB's github stats](https://github-readme-stats.vercel.app/api?username=fecton&count_private=true&show_icons=true)](https://github.com/fecton/github-readme-stats)
