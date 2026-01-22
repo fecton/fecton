@@ -61,16 +61,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-| Role | Company | Client | Period |
-|------|---------|--------|--------|
-| Senior DevOps Engineer | Geniusee Inc. | Education & Logistics | Nov 2025 - Present |
-| Senior/Lead DevOps Engineer | Luxoft Poland | JP Morgan Chase | Aug 2025 - Oct 2025 |
-| DevOps Engineer | Luxoft Poland | Mercedes-Benz (MBUX) | Feb 2023 - Sep 2025 |
-
----
-
 ## 🌍 Languages
 
 | Language | Level |
@@ -90,4 +80,6 @@ I'm available for **B2B contracts** and **consulting** worldwide. Feel free to r
 - 💼 **LinkedIn:** [andrii-fecton](https://www.linkedin.com/in/andrii-fecton/)
 - 📧 **Email:** [a.v.lytvynenko2004@gmail.com](mailto:a.v.lytvynenko2004@gmail.com)
 - 💬 **Telegram:** [@fecton](https://t.me/fecton)
+
+> 📄 **For more details about my experience, certifications, and projects, visit my website:** [alytvynenko.net](https://alytvynenko.net)
 
